@@ -1,0 +1,5 @@
+train: data/roadDataset/images/train     
+val: data/roadDataset//images/val
+test:       
+nc: 8          
+names: ['person','motor','bike','car','truck','bus','motor-people','bille-people']  
